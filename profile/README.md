@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+We are an open source company called step2dev, based in Ukraine. Our team is dedicated to developing and maintaining a variety of open source projects, from web development to machine learning.
 <!--
 
 **Here are some ideas to get you started:**
